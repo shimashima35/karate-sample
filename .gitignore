@@ -1,3 +1,5 @@
 target/
 .idea/
 karate.iml
+.DS_Store
+karate-sample.iml
